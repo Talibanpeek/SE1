@@ -10,5 +10,7 @@ int main()
     cout << "Enter b = ";
     cin >> b;
     int sum = a + b;
+    int diff = a - b;
     cout << "Sum = " << sum;
+    cout << "\nDiff = " << diff;
 }
