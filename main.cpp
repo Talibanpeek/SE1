@@ -1,5 +1,5 @@
 #include <iostream>
-
+// ychebnaya programma
 using namespace std;
 
 int main()
