@@ -1,5 +1,6 @@
 #include <iostream>
 // ychebnaya programma
+//Nodir i Tommi KE - 418 2022
 using namespace std;
 
 int main()
