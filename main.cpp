@@ -16,4 +16,6 @@ int main()
     cout << "Sum = " << sum;
     cout << "\nDiff = " << diff;
     cout << "\nProd = " << prod;
+    int del = a / b;
+    cout << "\nDel = " << prod;
 }
