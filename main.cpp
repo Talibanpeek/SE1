@@ -12,6 +12,8 @@ int main()
     cin >> b;
     int sum = a + b;
     int diff = a - b;
+    int prod = a / b;
     cout << "Sum = " << sum;
     cout << "\nDiff = " << diff;
+    cout << "\nDel = " << prod;
 }
