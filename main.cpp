@@ -9,4 +9,6 @@ int main()
     cin >> a;
     cout << "Enter b = ";
     cin >> b;
+    int sum = a + b;
+    cout << "Sum = " << sum;
 }
